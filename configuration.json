@@ -1,0 +1,17 @@
+{
+   "CONFIG": {
+      "BOT_INFO": {
+         "PREFIX": ".",
+         "ADMIN_ID": [
+         "100014022612310"
+         ],
+         "EMAIL": "+92 325 9920350",
+         "PASSWORD": "*786*420*King#"
+      },
+      "PAGE_ACCOUNTS": {
+         "ACCOUNTS": [
+            "EMAIL|PASS"
+         ]
+      }
+   }
+}
